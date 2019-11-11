@@ -21,3 +21,4 @@
 |청원 분류|<img src="./img/국민청원.PNG" width="100%" height="50%">|[청원 분류](https://github.com/kwong3528/Classification/blob/master/%EA%B5%AD%EB%AF%BC%EC%B2%AD%EC%9B%90%20%EB%B6%84%EB%A5%98/%EA%B5%AD%EB%AF%BC%EC%B2%AD%EC%9B%90_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98_%ED%95%98%EA%B8%B0.ipynb)|
 
 + 국민청원 데이터로 평균투표수를 이상을 받을 과 그렇지못한것을 분류를 해보는 것입니다.
++ 데이터의 출처는 https://github.com/akngs/petitions 이 곳입니다.
